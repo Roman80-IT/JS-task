@@ -1,6 +1,5 @@
-// === ARTEM ===
-
-// https://github.com/ArtemRysich/Group_77
+"JavaScript is awesome".length;
+console.log("JavaScript is awesome".length);
 
 // https://developer.mozilla.org/en-US/
 // https://uk.javascript.info/
@@ -51,7 +50,9 @@
 // a = 12;
 // a += 2
 
-//! ==============================
+//! =============================================
+//! =============================================
+//! =============================================
 
 // === OLEKSIJ ===
 
